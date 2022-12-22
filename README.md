@@ -1,16 +1,24 @@
-### Hi there 👋
+### Howdy! I'm Justin. 👋
 
-<!--
-**jreich5/jreich5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔭 Recently I've been exploring SPAs with Vue.js and Spring Boot. I’m currently learning the basics of data structures and algorithms.
+- 🌱 In early 2023, I'll be exploring Next.js and AWS services.
+- 💬 Ask me about learning and teaching others how to code.
+- 💼 I'm currently a Lead Web Development Instructor at [Codeup](https://codeup.com/)
+- 📫 How to reach me: [justinreich.dev@gmail.com](mailto:justinreich.dev@gamil.com) and [LinkedIn](https://www.linkedin.com/in/justin-reich/)
+- 😄 Pronouns: He/Him/His
+- 🌶️ Fun fact: I love spicy food so much I've attempted the [Four Horsemen Burger challenge](https://www.mychunkysburgers.com/4-horsemen). It went...badly.
+- 🎹 I have a couple of degrees in music and I'm a classically trained pianist. Let's just say I know my way around keyboards. 💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div>
+  
+<img width=400 align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=jreich5&layout=compact&text_color=daf7dc&bg_color=151515">
+
+<img width=566 align=left src="https://github-readme-stats.vercel.app/api?username=jreich5&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jreich5's Github Stats">
+  
+</div>
+
+  
