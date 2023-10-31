@@ -2,8 +2,8 @@
 
 #### 👨🏻‍💻 About Me
 
-- 🔭 Recently I've been exploring SPAs with Vue.js and Spring Boot.
-- 🌱 I’m currently learning the basics of data structures and algorithms. Learning soon: Next.js and AWS deployment.
+- 🔭 Recently I've been exploring creating mockups with Figma.
+- 🌱 I’m currently learning the React Testing Library and mocking. Learning soon: Next.js and AWS cloud services.
 - 💬 Ask me about learning and teaching others how to code.
 - 💼 I'm currently a Lead Web Development Instructor at [Codeup](https://codeup.com/).
 - 📫 How to reach me: [justinreich.dev@gmail.com](mailto:justinreich.dev@gamil.com) and [LinkedIn](https://www.linkedin.com/in/justin-reich/)
